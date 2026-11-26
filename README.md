@@ -20,4 +20,3 @@ I’m a fifth-year AI Engineering student at ENSIA and a Master 2 Management stu
 - **AI and evaluation** · Python, PyTorch, OpenCV, Transformers, retrieval evaluation, and LoRA
 - **Applications and data** · FastAPI, Django, Flask, React, TypeScript, Flutter, PostgreSQL, and Qdrant
 
-The [demo catalog](https://akram00000.github.io/project-demos/) covers all 17 projects in my portfolio, with links to the source where it is publicly available. The [catalog repository](https://github.com/Akram00000/project-demos) includes the demo code.
