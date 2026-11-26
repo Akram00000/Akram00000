@@ -2,7 +2,7 @@
 
 I’m a fifth-year AI Engineering student at ENSIA and a Master 2 Management student at EHEC, based in Algiers, Algeria. I build computer vision and NLP systems and the software that makes them usable.
 
-[Portfolio](https://portfolio-main-akram00000s-projects.vercel.app/) · [All project demos](https://akram00000.github.io/project-demos/) · [LinkedIn](https://dz.linkedin.com/in/akram-benamrane-8311983b3)
+[Portfolio](https://portfolio-main-akram00000s-projects.vercel.app/) · [LinkedIn](https://dz.linkedin.com/in/akram-benamrane-8311983b3)
 
 ## Selected work
 
